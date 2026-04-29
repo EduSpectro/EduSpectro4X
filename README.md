@@ -28,6 +28,15 @@
 ![センサーにつける](images/Sensor_small.png) <dr>
 ![センサーを取り付ける](images/Sensor_Bpard_small.png) <dr>
 
+*   **分光センサーのシリアル番号と波長校正データについて**:
+    *   ファームウェアでは波長校正は行なっていません。測定・解析アプリケーションEduSpectroLabの"system_config_do_not_delete"フォルダーの"calibration_coefficients.txt"に使っているセンサーのシリアル番号とデータを書き込む必要があります。
+
+![シリアル番号](images/Sensor_SerialNum_small.png) <dr>
+![波長校正データ](images/C12880MA_Calib_803_small.png) <dr>
+
+
+
+
 *   [KiCadの使い方について](docs/HowToMakePCB_KiCad×GeminiAI.pdf)<br>
 *   **使い方**:
 *   [Arduino IDEでの書き込み方](docs/ArduinoIDE_Write_Firm.pdf)
