@@ -20,7 +20,7 @@
 *   **ハードウェアについて**:
 ![EduSpectro基板部品説明](images/EduSpectro4X_Board_Parts_small.png) <dr>
 
-    *   部品リスト：マイコンボード Waveshare RP2350 Zero、分光センサー C12880MA、オペアンプ NJM2732D、0.3mA定電流素子、セラミックコンデンサ 0.1μF(3個)、トグルスイッチ、14ピンICソケット（丸ピン）、ロープロファイルピンヘッダー（オス）、ヘッダーピン(メス)、L型ピンヘッダ（オス）
+    *   部品リスト：マイコンボード Waveshare RP2350 Zero、分光センサー C12880MA、オペアンプ NJM2732D、0.3mA定電流素子、セラミックコンデンサ 0.1μF(3個)、1kΩ、2kΩ、トグルスイッチ、14ピンICソケット（丸ピン）、ロープロファイルピンヘッダー（オス）、ヘッダーピン(メス)、L型ピンヘッダ（オス）
 *   [KiCadの使い方について](docs/HowToMakePCB_KiCad×GeminiAI.pdf)<br>
 *   **使い方**:
 *   [Arduino IDEでの書き込み方](docs/ArduinoIDE_Write_Firm.pdf)
