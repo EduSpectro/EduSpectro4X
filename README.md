@@ -21,7 +21,7 @@
     *   部品リスト：マイコンボード Waveshare RP2350 Zero、分光センサー C12880MA、オペアンプ NJM2732D、0.3mA定電流素子、セラミックコンデンサ 0.1μF(3個)、トグルスイッチ、14ピンICソケット（丸ピン）、ロープロファイルピンヘッダー（オス）、ヘッダーピン(メス)、L型ピンヘッダ（オス）
     *   KiCadの使い方については `docs/KiCad×Gemini AIで作る自作プリント基板.pdf` を参照してください
 *   **使い方**:
-*   [Arduino IDEでの書き込み方](https://github.com/EduSpectro/EduSpectro4X/docs/ArduinoIDE_Write_Firm.pdf)
+*   [Arduino IDEでの書き込み方](docs/ArduinoIDE_Write_Firm.pdf)
 *   マイコンへのファームウェアの書き込み方法は、Raspberry Pi Pico2などの記事を参照してください。
 
 
