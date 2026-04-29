@@ -22,7 +22,7 @@
     *   KiCadの使い方については `docs/KiCad×Gemini AIで作る自作プリント基板.pdf` を参照してください
 *   **使い方**:
 *   [Arduino IDEでの書き込み方](docs/ArduinoIDE_Write_Firm.pdf)
-*   マイコンへのファームウェアの書き込み方法は、Raspberry Pi Pico2などの記事を参照してください。
+*   Raspberry Pi Pico2などのWebでの記事も参照してください。
 
 
 
