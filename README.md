@@ -18,6 +18,8 @@
     *   導入が必要なボードマネージャー（Raspberry Pi Pico/RP2350）
     *   ボード：Waveshare RP2350 Zero、
 *   **ハードウェアについて**:
+![EduSpectro基板部品説明](images/EduSpectro4X_Board_Parts_small.png) <dr>
+
     *   部品リスト：マイコンボード Waveshare RP2350 Zero、分光センサー C12880MA、オペアンプ NJM2732D、0.3mA定電流素子、セラミックコンデンサ 0.1μF(3個)、トグルスイッチ、14ピンICソケット（丸ピン）、ロープロファイルピンヘッダー（オス）、ヘッダーピン(メス)、L型ピンヘッダ（オス）
 *   [KiCadの使い方について](docs/HowToMakePCB_KiCad×GeminiAI.pdf)<br>
 *   **使い方**:
