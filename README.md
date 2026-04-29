@@ -19,7 +19,7 @@
     *   ボード：Waveshare RP2350 Zero、
 *   **ハードウェアについて**:
     *   部品リスト：マイコンボード Waveshare RP2350 Zero、分光センサー C12880MA、オペアンプ NJM2732D、0.3mA定電流素子、セラミックコンデンサ 0.1μF(3個)、トグルスイッチ、14ピンICソケット（丸ピン）、ロープロファイルピンヘッダー（オス）、ヘッダーピン(メス)、L型ピンヘッダ（オス）
-    *   KiCadの使い方については `docs/KiCad×Gemini AIで作る自作プリント基板.pdf` を参照してください
+    *   [KiCadの使い方について](docs/HowToMakePCB_KiCad×Gemini AI.pdf)<br>
 *   **使い方**:
 *   [Arduino IDEでの書き込み方](docs/ArduinoIDE_Write_Firm.pdf)
 *   Raspberry Pi Pico2などのWebでの記事も参照してください。
